@@ -16,7 +16,7 @@ The R script, `cleaningData.R`, does the following:
 
 Some notes:
 
-1 - The binding and appending of data should not be considered as a problem, since there is never any shuffeling of rows that occur
-2 - The tidyverse package is used throughout the code
+1. The binding and appending of data should not be considered as a problem, since there is never any shuffling of rows that occur
+2. The tidyverse package is used throughout the code
 
 The end result is shown in the file `tidy.txt`.
